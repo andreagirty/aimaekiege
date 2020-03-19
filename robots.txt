@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chaiheshof.flubmusic.com/sitemap.xml
